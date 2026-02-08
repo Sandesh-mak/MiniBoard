@@ -23,8 +23,7 @@ It supports creating, updating, deleting tasks, tracking deadlines, exporting ta
 ## Screenshots
 
 ### Login Screen
-![Login Screen](<img width="289" height="231" alt="Login" src="https://github.com/user-attachments/assets/1e3f9608-0a1d-4e4d-bcf7-4e6ac793fe09" />
-)
+![Login Screen](https://github.com/Sandesh-mak/MiniBoard/blob/d54851a160e18c67f0fbfdf8171e12159268fbed/Login.png)
 
 ![Kanban Board](<img width="955" height="506" alt="interface" src="https://github.com/user-attachments/assets/75e04f41-e467-4a4f-a55b-1d48fc533af0" />
 )
