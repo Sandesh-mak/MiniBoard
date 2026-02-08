@@ -25,15 +25,17 @@ It supports creating, updating, deleting tasks, tracking deadlines, exporting ta
 ### Login Screen
 ![Login Screen](https://github.com/Sandesh-mak/MiniBoard/blob/d54851a160e18c67f0fbfdf8171e12159268fbed/Login.png)
 
+
+### Kanban Board
+
 ![Kanban Board](https://github.com/Sandesh-mak/MiniBoard/blob/cf8d50693b8eed91caae7ee04cab83849f66b311/interface.png)
 
+
+
 ### Task Details Dialog
-![Task Details](<img width="956" height="506" alt="addd" src="https://github.com/user-attachments/assets/e649404c-7297-4197-8223-e020624f9a24" />
-)
+![Task Details](https://github.com/Sandesh-mak/MiniBoard/blob/b44ae61ff0d35bc09539b5e1dfbb6c619c1116cb/addd.png)
 
 
-
----
 
 ## Installation & Running
 
