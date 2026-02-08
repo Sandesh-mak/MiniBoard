@@ -20,6 +20,21 @@ It supports creating, updating, deleting tasks, tracking deadlines, exporting ta
 
 ---
 
+## Screenshots
+
+### Login Screen
+![Login Screen](<img width="289" height="231" alt="Login" src="https://github.com/user-attachments/assets/1e3f9608-0a1d-4e4d-bcf7-4e6ac793fe09" />
+)
+
+![Kanban Board](<img width="955" height="506" alt="interface" src="https://github.com/user-attachments/assets/75e04f41-e467-4a4f-a55b-1d48fc533af0" />
+)
+
+### Task Details Dialog
+![Task Details](<img width="956" height="506" alt="addd" src="https://github.com/user-attachments/assets/e649404c-7297-4197-8223-e020624f9a24" />
+)
+
+
+
 ---
 
 ## Installation & Running
